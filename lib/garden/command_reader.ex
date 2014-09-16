@@ -1,6 +1,6 @@
 defmodule Garden.CommandReader do
   @help """
-  Avaialble commands:
+  Available commands:
   help        - Display this text
   look        - Display current money and plant status
   buy         - List plant seeds for sale
